@@ -1,0 +1,16 @@
+We have decided on team name.
+We wrote down member names on milestone 1 doc.
+Created github repositories and invited all team members to see and edit repositories.
+Was able to invite some of the TAs and Proffessor Alan to repositories, but need to get the github usernames of the other TAs from the proffessor.
+Wrote down our collaboration Tools of github and GroupMe to contact everyone.
+Discussed which project idea of the 4 favorite ones we are going to do.
+Decided on doing the calendar project(student organization tool website).
+Wrote down description of our project.
+Brainstormed ideas of vision statement.
+Chose and wrote vission statement. 
+Talked about our motivation for this project and wrote it down.
+Discussed and wrote the potential risks of our project.
+Discussed and wrote our plans to mitigate risks.
+wrote down links to the three repositories for this project.
+Decided and wrote our Development Method.
+Decided on and wrote our proposed Architecture.
