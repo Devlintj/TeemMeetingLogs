@@ -1,0 +1,10 @@
+Discussed what language we will use for our website
+decided. Front end: JavaScript/HTML/CSS, Backend: C++, Intermediate: NodeJS, Database: SQL
+Discussed that we should communicate anything we work on to the group, so there is no confusion.
+Team bonding through casual conversation occurred.
+Talked about branching git repositories.
+Talked about finding a webserver to host our website.
+Decided to wait on webserver until the Professor does a lecture on webhosting services and the cloud.
+Talked about software to be used for team management. (agile method)
+FreedCamp software being used for team management
+project name:DayBook
