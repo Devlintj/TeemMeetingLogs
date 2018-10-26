@@ -1,0 +1,7 @@
+Emphasize importance of branching, and created branches.
+Talk about plans for the project.
+Talked about how to integrate backend to front end.
+Talked about making our current HTML pages more visually appealing.
+Made efforts to make our login look more nice (with cu login as inspiration).
+Talked about javaScript needed to autopopulate calender with dates.
+
