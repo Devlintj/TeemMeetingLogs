@@ -1,0 +1,9 @@
+Figured out remote branches, so other people can see others branches.
+merged a branch with the master.
+Talked about a calendar api from google we can use to put in a sql database.
+Talked about a unified color scheme for our html pages.
+Discussed notification system (email reminder).
+Talked about profile creation/node.js
+added forgot password page.
+talked about encryption.
+talked about burner email for notifications.
