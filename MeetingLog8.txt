@@ -1,0 +1,6 @@
+Discuss database/database linking plans.
+Decided to cap students and professors to 8 courses (and make courses color coded on calendar.
+Talked about java to autopopulate calendar and the progress on it.
+talked about password encryption and how we are implementing it.
+talked about milestone 4.
+talked about popup for events for calendar.
