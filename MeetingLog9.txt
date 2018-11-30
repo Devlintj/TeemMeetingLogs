@@ -1,0 +1,1 @@
+This meeting comprised of troubleshooting our bugs within the code. Progress was made with removing the bugs.
